@@ -1,0 +1,5 @@
+//Antes de começar a programar, precisamos instalar algumas bibliotecas:
+pip install bitcoinlib
+//rodar script:
+python wallet_generator.py
+
